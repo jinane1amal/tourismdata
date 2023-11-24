@@ -7,3 +7,15 @@ editor: visual
 # I. Link to the GitHub project
    
 Click [here](https://github.com/jinane1amal/tourismdata.git) to access to our GitHub project.   
+   
+# II. Link to our sources
+You can have access tot the source of our data by clicking on the name of the variable :   
+   
+- [Natural disaster](https://ourworldindata.org/natural-disasters)
+- [Gross Domestic Product per capita](https://ourworldindata.org/economic-growth#all-charts)
+- [Gini Coefficient](https://ourworldindata.org/grapher/economic-inequality-gini-index)
+- [Number of arrivals](https://data.worldbank.org/indicator/ST.INT.ARVL?end=2020&most_recent_year_desc=false&start=2020&view=bar)
+- [Happiness and life satisfaction](https://ourworldindata.org/happiness-and-life-satisfaction)
+- [Food expenditure](https://ourworldindata.org/grapher/food-expenditure-per-person-per-year?tab=table)
+- 
+
