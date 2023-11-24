@@ -1,0 +1,9 @@
+---
+title: "Description of the file"
+author: "Lounès AÏT KARROU & Jinane AMAL"
+format: pdf
+editor: visual
+---
+# I. Link to the GitHub project
+   
+Click [here](https://github.com/jinane1amal/tourismdata.git) to access to our GitHub project.   
