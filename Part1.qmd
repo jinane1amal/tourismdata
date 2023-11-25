@@ -1,7 +1,7 @@
 ---
 title: "Description of the file"
 author: "Lounès AÏT KARROU & Jinane AMAL"
-format: pdf
+format: html
 editor: visual
 ---
 # I. Link to the GitHub project
@@ -17,5 +17,10 @@ You can have access tot the source of our data by clicking on the name of the va
 - [Number of arrivals](https://data.worldbank.org/indicator/ST.INT.ARVL?end=2020&most_recent_year_desc=false&start=2020&view=bar)
 - [Happiness and life satisfaction](https://ourworldindata.org/happiness-and-life-satisfaction)
 - [Food expenditure](https://ourworldindata.org/grapher/food-expenditure-per-person-per-year?tab=table)
-- 
+- []
+-   
+   
+# III. Description of our data
+## A) Natural disaster
+Here, we give the annual number of deaths from disaster
 
