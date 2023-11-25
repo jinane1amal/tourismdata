@@ -7,8 +7,30 @@ editor: visual
 # I. Link to the GitHub project
    
 Click [here](https://github.com/jinane1amal/tourismdata.git) to access to our GitHub project.   
+
+# II. Loading the data
+```{r}
+#| message: false
+library(here)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+theme_set(theme_bw())
+here::i_am("tourismdata.Rproj")
+```
    
-# II. Link to our sources
+```{r}
+Arrivals<-read.csv("Datas/arrivals.csv",sep=";")
+AvgExpenditures<-read.csv("Datas/avexpinttourists.csv",sep=";")
+FoodExpenditures<-read.csv("Datas/foodexp.csv",sep=";")
+GDP<-read.csv("Datas/gdppercap.csv",sep=";")
+Gini<-read.csv("Datas/gini.csv",sep=";")
+Happy<-read.csv("Datas/happinessladder.csv",sep=";")
+NatDisasters<-read.csv("Datas/naturaldisasters.csv",sep=";")
+Forest<-read.csv("Datas/propofprotectedforests.csv",sep=";")
+```
+
+# III. Link to our sources
 You can have access tot the source of our data by clicking on the name of the variable :   
    
 - [Natural disaster](https://ourworldindata.org/natural-disasters)
@@ -19,8 +41,9 @@ You can have access tot the source of our data by clicking on the name of the va
 - [Food expenditure](https://ourworldindata.org/grapher/food-expenditure-per-person-per-year?tab=table)
 - []
 -   
+
    
-# III. Description of our data
+# IV. Description of our data
 ## A) Natural disaster
 Here, we give the annual number of deaths from disaster
 
